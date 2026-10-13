@@ -6,7 +6,7 @@ I build real products end to end, working spec-first with AI coding agents: I wr
 
 ## Featured projects
 
-- **mypocket** ([live app](https://mypocket-qzv.pages.dev)) — Local-first, end-to-end encrypted personal finance PWA. React 19, TypeScript, Evolu (encrypted SQLite), passkeys.
+- **[mypocket](https://github.com/AketzaBarajas/mypocket)** ([live app](https://mypocket-qzv.pages.dev)) — Local-first, end-to-end encrypted personal finance PWA. React 19, TypeScript, Evolu (encrypted SQLite), passkeys.
 - **Training-session manager** (private, built for a client) — Offline-first PWA for session passes, attendance and accounting. React, TypeScript, Dexie.
 
 ## Tools I work with
